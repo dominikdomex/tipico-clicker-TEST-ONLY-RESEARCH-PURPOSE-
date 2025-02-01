@@ -1,4 +1,4 @@
-# Tipico Clicker
+# Tipico Games Clicker
 
 Ein einfaches Auto-Clicker-Skript, das mit `pyautogui` und `keyboard` erstellt wurde.
 Achte bitte auf die Hinweise
