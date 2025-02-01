@@ -28,6 +28,8 @@ Ein einfaches Auto-Clicker-Skript, das mit `pyautogui` und `keyboard` erstellt w
 
 4. Drücke `q`, um den Auto-Clicker zu stoppen und das Program beendet sich.
 
-## Hinweis
+## WICHTIGER HINWEIS
 
-Dieses Skript ist nur zu Test- und Forschungszwecken gedacht. Verwende es verantwortungsvoll.
+Dieses Skript ist ausschließlich zu Test- und Forschungszwecken gedacht. Der Einsatz von Auto-Clickern oder automatisierten Eingaben kann gegen die Nutzungsbedingungen von Online-Plattformen und Glücksspielanbietern verstoßen. Die Verwendung dieses Tools kann dazu führen, dass dein Konto gesperrt oder rechtliche Konsequenzen nach sich ziehen.
+
+Ich übernehme keine Verantwortung für Schäden, die durch die Nutzung dieses Skripts entstehen. Verwende es verantwortungsvoll und informiere dich über die geltenden Regeln und Gesetze.
