@@ -24,9 +24,9 @@ Ein einfaches Auto-Clicker-Skript, das mit `pyautogui` und `keyboard` erstellt w
 
 2. Bewege den Mauszeiger über den Start/Spin-Button und drücke `p`, um die Position zu speichern.
 
-3. Drücke `s`, um den Auto-Clicker zu starten. Der Auto-Clicker wird die gespeicherte Position 54 Mal klicken.
+3. Drücke `s`, um den Auto-Clicker zu starten. Der Auto-Clicker wird die gespeicherte Position geklickt.
 
-4. Drücke `q`, um den Auto-Clicker zu stoppen oder das Programm zu beenden.
+4. Drücke `q`, um den Auto-Clicker zu stoppen und das Program beendet sich.
 
 ## Hinweis
 
